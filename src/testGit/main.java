@@ -13,4 +13,7 @@ public class main {
 	public static String showItem() {
 		return "new things from feature2";
 	}
+	public static String showItem2() {
+		return "show item";
+	}
 }
