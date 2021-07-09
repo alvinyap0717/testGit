@@ -7,6 +7,7 @@ public class main {
 		System.out.println("This is new line feature1");
 		System.out.println("This is new items from master");
 		System.out.println(showItem());
+		System.out.println("new items from master");
 	}
 	
 	public static String showItem() {
