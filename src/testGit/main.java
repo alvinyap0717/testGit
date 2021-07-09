@@ -6,5 +6,6 @@ public class main {
 		System.out.println("new items from master");
 		System.out.println("new items from master2");
 		System.out.println("new items from master3");
+		System.out.println("new items from master4");
 	}
 }
